@@ -1,5 +1,0 @@
-F:\git\GitHub\EasyExchancher\EasyExchancher\EasyExchancher.API\obj\Debug\netcoreapp3.1\EasyExchancher.API.csprojAssemblyReference.cache
-F:\git\GitHub\EasyExchancher\EasyExchancher\EasyExchancher.API\obj\Debug\netcoreapp3.1\staticwebassets\EasyExchancher.API.StaticWebAssets.Manifest.cache
-F:\git\GitHub\EasyExchancher\EasyExchancher\EasyExchancher.API\obj\Debug\netcoreapp3.1\staticwebassets\EasyExchancher.API.StaticWebAssets.xml
-F:\git\GitHub\EasyExchancher\EasyExchancher\EasyExchancher.API\obj\Debug\netcoreapp3.1\EasyExchancher.API.AssemblyInfoInputs.cache
-F:\git\GitHub\EasyExchancher\EasyExchancher\EasyExchancher.API\obj\Debug\netcoreapp3.1\EasyExchancher.API.AssemblyInfo.cs

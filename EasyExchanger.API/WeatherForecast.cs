@@ -1,6 +1,6 @@
 using System;
 
-namespace EasyExchancher.API
+namespace EasyExchanger.API
 {
     public class WeatherForecast
     {
